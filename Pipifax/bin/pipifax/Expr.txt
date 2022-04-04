@@ -1,0 +1,7 @@
+var myInt int
+var _thisMyStr1ng String
+# This is a healthy comment
+func myFunc() void {
+	myInt = 5
+	myInt = 6
+}
